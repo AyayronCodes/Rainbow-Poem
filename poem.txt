@@ -18,3 +18,5 @@ Pony
 changechange
 
 divide
+
+subtract
